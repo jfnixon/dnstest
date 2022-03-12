@@ -13,7 +13,7 @@ PROVIDERS="
 8.8.8.8#google 
 9.9.9.9#quad9 
 80.80.80.80#freenom 
-208.67.222.123#opendns 
+208.67.222.222#opendns 
 199.85.126.20#norton 
 185.228.168.168#cleanbrowsing 
 77.88.8.7#yandex 
